@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894617870385",
+    "project_id": "pikart-4ca3e",
+    "storage_bucket": "pikart-4ca3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894617870385:android:f2e787a275184217447510",
+        "android_client_info": {
+          "package_name": "com.iitg.pikart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894617870385-10o35kdqjcfiqhcih7lk86ucdrbnh22n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iitg.pikart",
+            "certificate_hash": "58bc3d0c12145ed921c4b0eb5da22bcd6d92e686"
+          }
+        },
+        {
+          "client_id": "894617870385-lkljgg4cvt2kdasg9q4c5ab1acsi846r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFG1q-dU0RgA_et82rp1PqJYv0HTF5D2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894617870385-lkljgg4cvt2kdasg9q4c5ab1acsi846r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
